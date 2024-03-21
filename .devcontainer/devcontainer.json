@@ -20,7 +20,8 @@
     },
     "ghcr.io/devcontainers/features/git:1": {},
     "ghcr.io/audacioustux/devcontainers/pulumi:1": {},
-    "ghcr.io/devcontainers/features/aws-cli:1": {}
+    "ghcr.io/devcontainers/features/aws-cli:1": {},
+    "ghcr.io/audacioustux/devcontainers/localstack:1": {}
   },
   "runArgs": ["--env-file", ".env"],
   "customizations": {
